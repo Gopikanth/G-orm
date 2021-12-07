@@ -1,1 +1,1 @@
-# G-orm
+# G-orm using mysql
